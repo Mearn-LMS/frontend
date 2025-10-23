@@ -1,6 +1,5 @@
 ## 🧰 Tech Stack
 
-### ⚛️ Frontend
 - ⚡ **Vite** — ultra-fast build tool for modern web apps.  
 - ⚙️ **React** — component-based UI framework.  
 - 🧩 **TypeScript** — adds strong typing and improves reliability.  
