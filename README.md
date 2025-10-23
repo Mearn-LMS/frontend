@@ -9,5 +9,5 @@
 ---
 
 ## 🧑‍💻 Author  
-**morphine**  
+**kandratiche**  
 [GitHub](https://github.com/kandratiche)
